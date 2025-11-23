@@ -24,7 +24,7 @@ class NoteItem extends StatelessWidget {
               child: Text(
                 'My fist app',
                 style: TextStyle(
-                  color: Colors.black.withOpacity(.5),
+                  color: Colors.black.withOpacity(.4),
                   fontSize: 18,
                 ),
               ),
